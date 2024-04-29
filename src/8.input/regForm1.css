@@ -1,0 +1,13 @@
+.reginput1 {
+    max-width: 500px;
+    margin-bottom: 20px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.form {
+    margin-bottom: 15px;
+
+}
